@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "devops-labs-366504",
+  "private_key_id": "16a729c6d61d588aac7ddc5839cc0bc57a95c12c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDmtGEWsMNSVewC\n4fou9+RFzYaKgxtak1iIuGx/EZXrx1pSKDt17r9AxNGCj7/eSV9oE4WT4c27V5cE\n9h76y9G2mZC9PHneFn8B6cmbBLf0XoZ0Yn2UCkBOFJIioytQPwsJ8VbOwmmUsVbs\nyGQuh90ynOTT6LJNRz3mVoYRXGinQ8vCbXS17zBfQck3tPyvkEoGoQrcZDZrOZcL\nu/hlrHeOHfL7SN8p+Ee4Lc8bwnjOHyiHkgXBtpVV76WpfwfCmQGqjodaj+2n+iyt\nFDVOAiWuttNV8LRUS+W/XFBX4MGZ7w6de00rqK2bEm/atqs8KnHY3k7MGJHfjoOI\nMt0gJkalAgMBAAECggEALZFGNfWe9rXK4nzg7gL/fvwLzXL85aSB0atfnq+KBaKA\nCAczS2VnODNH0Hp1IsIqSoPEmAN7H7w6s3urfczhNKhbSs1VotSdrHKRZAGIFgfP\nldBYTnPB5MoyXQ4OgZCaLRISm88RjJGEgktIYlpqidMsbWCiSxo9sy+21loCv7qH\nxG2V58nJVRMZQzJikahsd9GQWYekmL5YHifHjj9lddYrgVrCXOqQuGvCc2PePFUY\nw/+9Kiu4ERKptHBs0LtF3hP41u30cmYQtLNjyVil/8d/R2qtFwY+d6Y5KdQclwpm\nl8q/IH67OV8NRC86OQ8qNqXKBKawdN4B/jHxJNpVgQKBgQD8L90Z/lNdxbkwWxzi\nkBXh9lJwRziqff/6HmuNlU4YwLb5bWBhrbnDLAn6pchlaNd4bTxWY54L60BnwfVQ\npdF/2UvUET672UKpN/LTQfL1IPhec9ZjrUePwEzOsG0gV0sBfKLc+avrZ4E0kwnU\n+NBBB4+0bvkzBZ2pqimtYZBIwQKBgQDqMV03Ct/2Bcr2EEmh8Fmu8tlVlvXFaPWa\ngR4cZgzB6zQF7yAZGuJ+b8pXvGK4zeb80yh7Z+1cBfoSTfqYi1v1kFEhDJtM6hZu\nDckAQaA8PkBeayWHQIRzJjwJmS/tBaE4dxhRmIrcKpA9cNw+Xz/m6mdXJNBmXYk0\nNBX0oD+y5QKBgQCqzjBOvrbwOE8ptUxnF3f6x78mVNbIgvaxDZGDH7D5iu1jGvXA\nss2yp01K+qY0KUJnSnUnfek54WiJ3hCtQuIWWbLGO7flu00vF7nb5DsOU/pk3shC\nUsa5UmGzTENdOEKRCz2ztVb/5ebZGQ37tVo38Usfxln6eL9EfwAjcoUrAQKBgC+c\n0aK7J0VRcC4Oqamuv8z9uonYIyd7a1N6JLEJXlaehvkd4Jy6BopGGBE2T6va0Lde\nBsDwJCWtYWYPTH9u9cc7DAN4GKrOfLjrPI48yWL2FQgdKIgS6dqvT010Q3YgyuI7\n9EnChZi1XpXfOCfGHavIxDHHXkcxhQ+D92LAobKxAoGBALjYHGnEJ4kKRzAmH1vO\nsDGhRv1UNOU7rg4gwrXOIBcBT7q6zc4bD2fYuJA6cxeEytkde5c5e/BL0PrqmGmq\nc7UndnLAOxYM6UMcabo6gMdWpDoGpzUHrBMl78xwMV9086YP+rzEFGxD0Gs2T30a\nbXmjfQTQFNKiZ9N0wEqJSeSr\n-----END PRIVATE KEY-----\n",
+  "client_email": "admin-devops@devops-labs-366504.iam.gserviceaccount.com",
+  "client_id": "115356817302900943391",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/admin-devops%40devops-labs-366504.iam.gserviceaccount.com"
+}
